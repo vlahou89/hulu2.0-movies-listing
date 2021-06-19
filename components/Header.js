@@ -22,7 +22,7 @@ function Header() {
       </div>
       <Image
         className="object-contain"
-        src="https://p.kindpng.com/picc/s/151-1513487_hulu-logo-white-transparent-hd-png-download.png"
+        src="https://cdn.freebiesupply.com/images/large/2x/hulu-logo-transparent.png"
         width={200}
         height={100}
       />

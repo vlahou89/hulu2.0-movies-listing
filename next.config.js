@@ -1,5 +1,5 @@
 module.exports = {
   images: {
-    domains: ["p.kindpng.com", "image.tmdb.org"],
+    domains: ["cdn.freebiesupply.com", "image.tmdb.org"],
   },
 };
